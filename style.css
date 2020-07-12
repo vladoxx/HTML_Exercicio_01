@@ -1,0 +1,85 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    text-align: justify;
+    font-family: 34px;
+    width: 883px;
+}
+
+.plato {
+    font-weight: 900;
+    font-size: 89px;
+    line-height: 79px;
+    color: hsl(0, 100%, 50%);
+}
+
+.creador {
+    color: black;
+    font-size: 21px;
+    font-weight: 700;
+    text-align: right;
+}
+
+.historia {
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 1.61;
+    color: black;
+}
+
+p:empty {
+    height: 5px;
+    width: 100%;
+    background-color: #000000;
+    margin-top: 34px;
+    margin-bottom: 34px;
+}
+
+p  {
+    font-size: 21px;
+    font-weight: 500;
+}
+
+strong  {
+    font-weight: black;
+}
+
+.ing {
+    font-size: 34px;
+    font-weight: 900;
+    color: hsl(0, 100%, 50%);
+}
+
+ul li {
+    font-size: 21px; 
+    font-weight: 600;
+    Line-height: 1.61;
+}
+
+.mod {
+    font-size: 34px;
+    font-weight: 900;
+    color: hsl(0, 100%, 50%);
+}
+
+ol li {
+    font-size: 21px;
+    font-weight: 600;
+    list-style: 1.61;
+}
+
+.patacon {
+    width: 883px;
+    height: 374px;
+}
+
+.vid {
+    font-size: 34px;
+    font-weight: 900;
+    color: hsl(0, 100%, 50%);
+}
+
+.voltar {
+    font-size: 21px;
+    font-weight: 900;
+    Color: #033dc5;
+}
