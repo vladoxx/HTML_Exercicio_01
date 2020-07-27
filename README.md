@@ -1,2 +1,1 @@
-# HTML_Exercicio_01
-Exercício a seguir com CSS3.
+# HTML_CSS_Exercicio_01
