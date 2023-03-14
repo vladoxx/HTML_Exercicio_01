@@ -14,7 +14,7 @@
     font-weight: 900;
     font-size: 89px;
     line-height: 79px;
-    color: hsl(0, 100%, 50%);
+    color: #ff0000;
 }
 
 .titulo-autor {
@@ -46,7 +46,7 @@ p:empty {
 .titulo-ingredientes {
     font-size: 34px;
     font-weight: 900;
-    color: hsl(0, 100%, 50%);
+    color: #ff0000;
 }
 
 .lista-ingredientes {
@@ -58,7 +58,7 @@ p:empty {
 .titulo-preparo {
     font-size: 34px;
     font-weight: 900;
-    color: hsl(0, 100%, 50%);
+    color: #ff0000;
 }
 
 .lista-preparacao {
@@ -70,14 +70,23 @@ p:empty {
     width: 95%;
 }
 
-.vid {
+.titulo-video {
     font-size: 34px;
     font-weight: 900;
-    color: hsl(0, 100%, 50%);
+    color: #ff0000;
+}
+
+.video {
+    border-radius: 2%;
 }
 
 .voltar {
     font-size: 21px;
     font-weight: 900;
-    Color: #033dc5;
+}
+
+.voltar a {
+    text-decoration: none;
+    Color: #072469;
+    /* color: #ff0000; */
 }
