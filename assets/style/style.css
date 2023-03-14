@@ -43,10 +43,6 @@ p:empty {
     font-weight: 500;
 }
 
-strong  {
-    font-weight: black;
-}
-
 .titulo-ingredientes {
     font-size: 34px;
     font-weight: 900;
@@ -59,21 +55,19 @@ strong  {
     Line-height: 1.61;
 }
 
-.mod {
+.titulo-preparo {
     font-size: 34px;
     font-weight: 900;
     color: hsl(0, 100%, 50%);
 }
 
-ol li {
+.lista-preparacao {
     font-size: 21px;
-    font-weight: 600;
-    list-style: 1.61;
+    font-weight: 500;
 }
 
-.patacon {
-    width: 883px;
-    height: 374px;
+.lista-preparacao li {
+    width: 95%;
 }
 
 .vid {
