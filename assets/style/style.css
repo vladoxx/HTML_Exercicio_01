@@ -5,6 +5,11 @@
     width: 883px;
 }
 
+.banner {
+    border-radius: 2%;
+    height: 400px;
+}
+
 .titulo {
     font-weight: 900;
     font-size: 89px;
@@ -42,15 +47,15 @@ strong  {
     font-weight: black;
 }
 
-.ing {
+.titulo-ingredientes {
     font-size: 34px;
     font-weight: 900;
     color: hsl(0, 100%, 50%);
 }
 
-ul li {
+.lista-ingredientes {
     font-size: 21px; 
-    font-weight: 600;
+    font-weight: 500;
     Line-height: 1.61;
 }
 
